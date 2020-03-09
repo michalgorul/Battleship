@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\micha\source\repos\5dfb0d10-gr22-repo\projekt\battleship</FILEPATH>
+      <FILENAME>files.c</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'fscanf'.</DESCRIPTION>
+    <FUNCTION>read_board_from_file</FUNCTION>
+    <DECORATED>read_board_from_file</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\micha\source\repos\5dfb0d10-gr22-repo\projekt\battleship</FILEPATH>
+      <FILENAME>files.c</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'fscanf'.</DESCRIPTION>
+    <FUNCTION>read_board_from_file</FUNCTION>
+    <DECORATED>read_board_from_file</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
